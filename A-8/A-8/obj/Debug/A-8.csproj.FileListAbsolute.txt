@@ -1,0 +1,13 @@
+C:\Aug22\A-8\A-8\bin\Debug\A-8.exe.config
+C:\Aug22\A-8\A-8\bin\Debug\A-8.exe
+C:\Aug22\A-8\A-8\bin\Debug\A-8.pdb
+C:\Aug22\A-8\A-8\bin\Debug\EntityFramework.dll
+C:\Aug22\A-8\A-8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Aug22\A-8\A-8\bin\Debug\EntityFramework.xml
+C:\Aug22\A-8\A-8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Aug22\A-8\A-8\obj\Debug\A-8.csproj.AssemblyReference.cache
+C:\Aug22\A-8\A-8\obj\Debug\A-8.csproj.SuggestedBindingRedirects.cache
+C:\Aug22\A-8\A-8\obj\Debug\A-8.csproj.CoreCompileInputs.cache
+C:\Aug22\A-8\A-8\obj\Debug\A-8.csproj.CopyComplete
+C:\Aug22\A-8\A-8\obj\Debug\A-8.exe
+C:\Aug22\A-8\A-8\obj\Debug\A-8.pdb
